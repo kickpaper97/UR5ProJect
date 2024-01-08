@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyUR5Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\coding\UR5ProJect\MyUR5Project\Intermediate\Build\Win64\x64\MyUR5ProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\coding\UR5ProJect\MyUR5Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyUR5Project\MyUR5Project.cpp.obj"
+"D:\coding\UR5ProJect\MyUR5Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyUR5Project\Default.rc2.res"
+/OUT:"D:\coding\UR5ProJect\MyUR5Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyUR5Project\UnrealEditor-MyUR5Project.lib"

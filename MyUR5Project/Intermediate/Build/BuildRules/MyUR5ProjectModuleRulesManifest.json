@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\coding\\UR5ProJect\\MyUR5Project\\Source\\MyUR5Project\\MyUR5Project.Build.cs",
+		"D:\\coding\\UR5ProJect\\MyUR5Project\\Source\\MyUR5Project.Target.cs",
+		"D:\\coding\\UR5ProJect\\MyUR5Project\\Source\\MyUR5ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

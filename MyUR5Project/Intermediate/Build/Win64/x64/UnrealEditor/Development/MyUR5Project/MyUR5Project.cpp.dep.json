@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\coding\\ur5project\\myur5project\\source\\myur5project\\myur5project.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\coding\\ur5project\\myur5project\\intermediate\\build\\win64\\x64\\myur5projecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\coding\\ur5project\\myur5project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myur5project\\definitions.myur5project.h",
+            "d:\\coding\\ur5project\\myur5project\\source\\myur5project\\myur5project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

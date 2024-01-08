@@ -1,0 +1,382 @@
+[+] Containers:
+ |- [+] Container: /Game/LevelMap/MainLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:007F368747BDEBD7D8405192CF93C991 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_1_0 Label:LandscapeStreamingProxy_2_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=-12400.000 Z=0.000), Max=(X=0.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:032960D64B586547CADE6A94EB80E554 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_0_0 Label:LandscapeStreamingProxy_1_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=-18600.000 Z=0.000), Max=(X=-6200.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:078E0A6D433EC958B440248D702CD6A3 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_3_0 Label:LandscapeStreamingProxy_1_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=0.000 Z=0.000), Max=(X=-6200.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0E10BFB34DCB1C2685FD9F83461A7D23 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_4_0 Label:LandscapeStreamingProxy_1_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=6200.000 Z=0.000), Max=(X=-6200.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:14B75202404A8C3361DD398A5666FC2E BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_4_0 Label:LandscapeStreamingProxy_4_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=6200.000 Z=0.000), Max=(X=12400.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:156CD343448B2E52FB407D81723EF069 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_8C8CAA274CE1B0CD01_1655838616 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SkyEnvir FolderGuid:09A272F947A6923F8ACD07A5B1DD158A
+ |   |   |- Guid:1CEA5BED470382084EA1BF860B7C583C BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_4_0 Label:LandscapeStreamingProxy_0_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=6200.000 Z=0.000), Max=(X=-12400.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1D760055470FD6E97694E4B368DCDF43 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_5_0 Label:LandscapeStreamingProxy_2_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=12400.000 Z=0.000), Max=(X=0.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:21B09FF74CF29B039CEC9CAE1E4211E8 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_3_0 Label:LandscapeStreamingProxy_3_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=6200.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:30FA0E5043AACF4F582BACACAE0777C7 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_2_0 Label:LandscapeStreamingProxy_2_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=-6200.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:382ACC1245D343833A9C62BEC4E57895 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_0_0 Label:LandscapeStreamingProxy_5_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=-18600.000 Z=0.000), Max=(X=18600.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:39A31EFB4950D1D4942908B541DFEC1B BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_0_0 Label:LandscapeStreamingProxy_4_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=-18600.000 Z=0.000), Max=(X=12400.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:461981CE447ED7960834D6B0876B4E27 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_2_0 Label:LandscapeStreamingProxy_0_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=-6200.000 Z=0.000), Max=(X=-12400.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:47BFA6C5449F3298CC332FB8FFB8FB65 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_5_0 Label:LandscapeStreamingProxy_3_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=12400.000 Z=0.000), Max=(X=6200.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4AD3DE41454588179F2939AE985ACF5D BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_2_0 Label:LandscapeStreamingProxy_1_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=-6200.000 Z=0.000), Max=(X=-6200.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4B35645F4F950ACC8EBEC8AB06D6FED3 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_4_0 Label:LandscapeStreamingProxy_3_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=6200.000 Z=0.000), Max=(X=6200.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:54E7A4264DCFB00ED2F7AD8C974E9F49 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_1_0 Label:LandscapeStreamingProxy_1_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=-12400.000 Z=0.000), Max=(X=-6200.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5D77D7DE426DDBBE7234D3A8DF246383 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_3_0 Label:LandscapeStreamingProxy_0_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=0.000 Z=0.000), Max=(X=-12400.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6A144B4445180BE6FEADBC979875E2E0 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_0_0 Label:LandscapeStreamingProxy_0_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=-18600.000 Z=0.000), Max=(X=-12400.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7427DBC846CE45BE536A009FFB7D4546 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_5_0 Label:LandscapeStreamingProxy_5_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=12400.000 Z=0.000), Max=(X=18600.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:79E9E106454051721FBA0F80B9D18877 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_1_0 Label:LandscapeStreamingProxy_0_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=-12400.000 Z=0.000), Max=(X=-12400.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7DEC3B73416AED070A33DAAF25CDA78C BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_4_0 Label:LandscapeStreamingProxy_2_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=6200.000 Z=0.000), Max=(X=0.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:859E7F3944A1D8A934E8CBA327918895 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_5_0 Label:LandscapeStreamingProxy_4_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=12400.000 Z=0.000), Max=(X=12400.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:88B30F9245BB6097882B6BAF60D71251 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_2_0 Label:LandscapeStreamingProxy_4_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=-6200.000 Z=0.000), Max=(X=12400.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:92CAD4CC47AEA1F1AD94B69D0B0CF558 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_0_0 Label:LandscapeStreamingProxy_2_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=-18600.000 Z=0.000), Max=(X=0.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A06F7425424FE67109FCBB88C742F0C9 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_5_0 Label:LandscapeStreamingProxy_0_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=12400.000 Z=0.000), Max=(X=-12400.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A0CBB2A842D1AEA547D044ADCF897128 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:A17CFFCE4252699684C08C8887636560 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_4_0 Label:LandscapeStreamingProxy_5_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=6200.000 Z=0.000), Max=(X=18600.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A65710974296399C502BF28825FA2C97 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_1_0 Label:LandscapeStreamingProxy_5_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=-12400.000 Z=0.000), Max=(X=18600.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B51872234FB66F230E053888B40DF079 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_8C8CAA274CE1B0CD01_1702755618 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SkyEnvir FolderGuid:09A272F947A6923F8ACD07A5B1DD158A
+ |   |   |- Guid:B5A5AB5E4FF998021BBAA8B40B9A3720 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_1_0 Label:LandscapeStreamingProxy_4_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=-12400.000 Z=0.000), Max=(X=12400.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C40830A44C05FE64698ED98978793D17 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_0_0 Label:LandscapeStreamingProxy_3_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-18600.000 Z=0.000), Max=(X=6200.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C75B4EA7435786CA07602DB5ADE35A14 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_1_0 Label:LandscapeStreamingProxy_3_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-12400.000 Z=0.000), Max=(X=6200.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C8F041844050556DD6586EAADF582379 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_8C8CAA274CE1B0CD01_2087389621 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=-30.000 Z=0.000), Max=(X=0.000 Y=-30.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SkyEnvir FolderGuid:09A272F947A6923F8ACD07A5B1DD158A
+ |   |   |- Guid:D45B84D5497D3D6C8512BBA358777BAF BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_3_0 Label:LandscapeStreamingProxy_4_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=0.000 Z=0.000), Max=(X=12400.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D97338174C8D101A237EEC96A02AA7BE BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_3_0 Label:LandscapeStreamingProxy_2_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E3A1D8A948BC5E86EC75C9AF4A073C32 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_2_0 Label:LandscapeStreamingProxy_3_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-6200.000 Z=0.000), Max=(X=6200.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E61C38284EE71477DED36081241529BB BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_3_0 Label:LandscapeStreamingProxy_5_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=0.000 Z=0.000), Max=(X=18600.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EC87FABF47B05C50D322CA8F138194B5 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_8C8CAA274CE1B1CD01_1252835798 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-18600.000 Y=-18600.000 Z=100.000), Max=(X=-18600.000 Y=-18600.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F2458E5C4D07C2E80D6136940A732EDB BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_2_0 Label:LandscapeStreamingProxy_5_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=-6200.000 Z=0.000), Max=(X=18600.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F67511404934DC2253BEFDAD8820B596 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_5_0 Label:LandscapeStreamingProxy_1_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=12400.000 Z=0.000), Max=(X=-6200.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:007F368747BDEBD7D8405192CF93C991 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_1_0 Label:LandscapeStreamingProxy_2_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=-12400.000 Z=0.000), Max=(X=0.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:032960D64B586547CADE6A94EB80E554 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_0_0 Label:LandscapeStreamingProxy_1_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=-18600.000 Z=0.000), Max=(X=-6200.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:078E0A6D433EC958B440248D702CD6A3 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_3_0 Label:LandscapeStreamingProxy_1_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=0.000 Z=0.000), Max=(X=-6200.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:0E10BFB34DCB1C2685FD9F83461A7D23 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_4_0 Label:LandscapeStreamingProxy_1_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=6200.000 Z=0.000), Max=(X=-6200.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:14B75202404A8C3361DD398A5666FC2E BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_4_0 Label:LandscapeStreamingProxy_4_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=6200.000 Z=0.000), Max=(X=12400.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:156CD343448B2E52FB407D81723EF069 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_8C8CAA274CE1B0CD01_1655838616 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SkyEnvir FolderGuid:09A272F947A6923F8ACD07A5B1DD158A
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:1CEA5BED470382084EA1BF860B7C583C BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_4_0 Label:LandscapeStreamingProxy_0_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=6200.000 Z=0.000), Max=(X=-12400.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:1D760055470FD6E97694E4B368DCDF43 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_5_0 Label:LandscapeStreamingProxy_2_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=12400.000 Z=0.000), Max=(X=0.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:21B09FF74CF29B039CEC9CAE1E4211E8 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_3_0 Label:LandscapeStreamingProxy_3_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=6200.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:30FA0E5043AACF4F582BACACAE0777C7 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_2_0 Label:LandscapeStreamingProxy_2_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=-6200.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:382ACC1245D343833A9C62BEC4E57895 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_0_0 Label:LandscapeStreamingProxy_5_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=-18600.000 Z=0.000), Max=(X=18600.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:39A31EFB4950D1D4942908B541DFEC1B BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_0_0 Label:LandscapeStreamingProxy_4_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=-18600.000 Z=0.000), Max=(X=12400.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:461981CE447ED7960834D6B0876B4E27 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_2_0 Label:LandscapeStreamingProxy_0_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=-6200.000 Z=0.000), Max=(X=-12400.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:47BFA6C5449F3298CC332FB8FFB8FB65 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_5_0 Label:LandscapeStreamingProxy_3_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=12400.000 Z=0.000), Max=(X=6200.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:4AD3DE41454588179F2939AE985ACF5D BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_2_0 Label:LandscapeStreamingProxy_1_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=-6200.000 Z=0.000), Max=(X=-6200.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:4B35645F4F950ACC8EBEC8AB06D6FED3 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_4_0 Label:LandscapeStreamingProxy_3_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=6200.000 Z=0.000), Max=(X=6200.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:54E7A4264DCFB00ED2F7AD8C974E9F49 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_1_0 Label:LandscapeStreamingProxy_1_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=-12400.000 Z=0.000), Max=(X=-6200.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:5D77D7DE426DDBBE7234D3A8DF246383 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_3_0 Label:LandscapeStreamingProxy_0_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=0.000 Z=0.000), Max=(X=-12400.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:6A144B4445180BE6FEADBC979875E2E0 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_0_0 Label:LandscapeStreamingProxy_0_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=-18600.000 Z=0.000), Max=(X=-12400.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:7427DBC846CE45BE536A009FFB7D4546 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_5_0 Label:LandscapeStreamingProxy_5_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=12400.000 Z=0.000), Max=(X=18600.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:79E9E106454051721FBA0F80B9D18877 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_1_0 Label:LandscapeStreamingProxy_0_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=-12400.000 Z=0.000), Max=(X=-12400.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:7DEC3B73416AED070A33DAAF25CDA78C BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_4_0 Label:LandscapeStreamingProxy_2_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=6200.000 Z=0.000), Max=(X=0.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:859E7F3944A1D8A934E8CBA327918895 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_5_0 Label:LandscapeStreamingProxy_4_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=12400.000 Z=0.000), Max=(X=12400.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:88B30F9245BB6097882B6BAF60D71251 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_2_0 Label:LandscapeStreamingProxy_4_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=-6200.000 Z=0.000), Max=(X=12400.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:92CAD4CC47AEA1F1AD94B69D0B0CF558 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_0_0 Label:LandscapeStreamingProxy_2_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=-18600.000 Z=0.000), Max=(X=0.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:A06F7425424FE67109FCBB88C742F0C9 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_5_0 Label:LandscapeStreamingProxy_0_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18600.000 Y=12400.000 Z=0.000), Max=(X=-12400.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:A0CBB2A842D1AEA547D044ADCF897128 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:A17CFFCE4252699684C08C8887636560 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_4_0 Label:LandscapeStreamingProxy_5_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=6200.000 Z=0.000), Max=(X=18600.000 Y=12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:A65710974296399C502BF28825FA2C97 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_1_0 Label:LandscapeStreamingProxy_5_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=-12400.000 Z=0.000), Max=(X=18600.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:B51872234FB66F230E053888B40DF079 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_8C8CAA274CE1B0CD01_1702755618 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SkyEnvir FolderGuid:09A272F947A6923F8ACD07A5B1DD158A
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:B5A5AB5E4FF998021BBAA8B40B9A3720 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_1_0 Label:LandscapeStreamingProxy_4_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=-12400.000 Z=0.000), Max=(X=12400.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:C40830A44C05FE64698ED98978793D17 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_0_0 Label:LandscapeStreamingProxy_3_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-18600.000 Z=0.000), Max=(X=6200.000 Y=-12400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:C75B4EA7435786CA07602DB5ADE35A14 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_1_0 Label:LandscapeStreamingProxy_3_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-12400.000 Z=0.000), Max=(X=6200.000 Y=-6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:C8F041844050556DD6586EAADF582379 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_8C8CAA274CE1B0CD01_2087389621 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=-30.000 Z=0.000), Max=(X=0.000 Y=-30.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SkyEnvir FolderGuid:09A272F947A6923F8ACD07A5B1DD158A
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:D45B84D5497D3D6C8512BBA358777BAF BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_3_0 Label:LandscapeStreamingProxy_4_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6200.000 Y=0.000 Z=0.000), Max=(X=12400.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:D97338174C8D101A237EEC96A02AA7BE BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_3_0 Label:LandscapeStreamingProxy_2_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6200.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:E3A1D8A948BC5E86EC75C9AF4A073C32 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_2_0 Label:LandscapeStreamingProxy_3_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-6200.000 Z=0.000), Max=(X=6200.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:E61C38284EE71477DED36081241529BB BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_3_0 Label:LandscapeStreamingProxy_5_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=0.000 Z=0.000), Max=(X=18600.000 Y=6200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:EC87FABF47B05C50D322CA8F138194B5 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_8C8CAA274CE1B1CD01_1252835798 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-18600.000 Y=-18600.000 Z=100.000), Max=(X=-18600.000 Y=-18600.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:F2458E5C4D07C2E80D6136940A732EDB BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_2_0 Label:LandscapeStreamingProxy_5_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12400.000 Y=-6200.000 Z=0.000), Max=(X=18600.000 Y=0.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:F67511404934DC2253BEFDAD8820B596 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_5_0 Label:LandscapeStreamingProxy_1_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12400.000 Y=12400.000 Z=0.000), Max=(X=-6200.000 Y=18600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-18600.000 Y=-18600.000 Z=0.000), Max=(X=18600.000 Y=18600.000 Z=200.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/LevelMap/MainLevel
+----------------------------------------------------------------------------------------------------------------
+MainLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of MainLevel Persistent Level
+ |- Always loaded Actor Count: 48 
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/LevelMap/MainLevel
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.Brush_0
+ |- Actor Package: /Game/LevelMap/MainLevel
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/LevelMap/MainLevel
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.DirectionalLight_UAID_8C8CAA274CE1B0CD01_1702755618
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/7/Y5/5LQYLYPS3C07KKXCX6KOBL
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/LevelMap/MainLevel
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.Landscape_UAID_8C8CAA274CE1B1CD01_1252835798
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/A/5L/ZMGMAGBJE9P2VMS9R174KI
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeGizmoActiveActor_0
+ |- Actor Package: /Game/LevelMap/MainLevel
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_0_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/9/ZG/YXWEBLJCL9GIXHFK66Z3RW
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_1_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/1/8J/POI1A4X92EN81LWW9H27E4
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_2_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/E/T5/ZE7AQ99SUW1TZJKUYV764H
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_3_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/4/CX/VMI4WWZSYZ9BWG6XHJPN26
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_4_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/0/WP/WOSRTGM4XU7AKUE96CFPYV
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_5_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/0/0B/G8HML7MSNGX8CN0SUTMFMU
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_0_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/8/V2/YLFM0S01TZ8JL2FNHZZT85
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_1_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/E/UN/7VMC8B316YYYSPN1PGXAL1
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_2_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/3/GR/BEFHEZFQIJ7URBBGXMTDNC
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_3_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/F/1J/ZSYY4V6PB34083QXW4QQPQ
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_4_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/9/O4/78XRZNHMFYYBKCQCEZ3YFL
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_5_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/3/CD/OV0FSTME6PLTV75ZJ68L2Z
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_0_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/1/IV/231E2J9ZDN5VBMEBOTNB6T
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_1_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/D/9I/6LUDUJEC3T4MDKWLU81WJY
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_2_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/7/FZ/CZEF3RL8Z1X43NTR06N824
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_3_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/4/GN/KCKZ0HJFH0FWBCLLV4FG6K
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_4_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/4/4S/C5OMA754418BFZP0R47FPP
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_5_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/4/87/SKZGYLQ5818P51S8B6DDCO
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_0_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/9/PT/J5DREU72ADL6PN762HJ1ZB
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_1_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/C/SS/1UM6XRF7G734ATXCF2QR85
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_2_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/0/5C/CV88AQGMH5MIUC6NM8UH7G
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_3_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/A/CG/IQHZT6XQV0PXV1XDSYYFPE
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_4_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/6/GN/R70XK6XU2CPA74KUPGYDRK
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_5_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/C/L1/X8ZORF3P9HOAOWIEJU0SF6
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_0_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/2/ZL/IDCFWTS9TB3DEOCD572P0I
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_1_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/2/TQ/JAED33FHMBEE59KZ76LFJE
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_2_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/9/MJ/ZC214SV07LFONI8T0RORMW
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_3_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/A/23/H6Q5EAXTXNSP4U22WI8DCK
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_4_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/5/3U/HDY9CIED4B1XHSVRXZ4QPR
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_5_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/8/W4/PO0NJFTNAYPGV810Q8711E
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_0_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/1/12/NYIIDNEDF812QJY07K7HKK
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_1_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/8/3Y/S8RZUCFM7F7RRYO3GUL6FK
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_2_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/C/SP/DXYWONWO9FIYQJBFX74DO3
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_3_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/E/GR/CXXB21RUMP3HM3A0ZZSX7K
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_4_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/A/KE/MJGLXDW5B6WUJH09DZCLD8
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_5_0
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/8/LA/NXI4I5KUNNTBEK2N5XEFOH
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.SkyAtmosphere_UAID_8C8CAA274CE1B0CD01_1655838616
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/E/C7/W3BTZ2QQXRAMQD77MI58F5
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.VolumetricCloud_UAID_8C8CAA274CE1B0CD01_2087389621
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/E/AD/22PQ81MEY61XOZU76XON4N
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/2/ZN/8ZDW0PKZNW3Z8W2EF1RZ9S
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.WorldPartitionMiniMap_UAID_8C8CAA274CE1B0CD01_1604447615
+ |- Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/B/SM/A1JQ15L7GFRJ38XNBMRB1S
+ |- Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/LevelMap/MainLevel
+
+----------------------------------------------------------------------------------------------------------------
+MainLevel - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-18600.000 Y=-18600.000 Z=0.000), Max=(X=18600.000 Y=18600.000 Z=200.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 3
+ |- Level  0: Cell Count    9 | Cell Size   12800 | Actor Count   36 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+ |- Level  2: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainLevel_MainGrid_L0_X-1_Y0 (0RA0O0FB66GLAX9RLIBYX1AT9)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_3_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/F/1J/ZSYY4V6PB34083QXW4QQPQ
+ |   |- Actor Instance Guid: 078E0A6D433EC958B440248D702CD6A3
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_2_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/E/T5/ZE7AQ99SUW1TZJKUYV764H
+ |   |- Actor Instance Guid: 461981CE447ED7960834D6B0876B4E27
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_2_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/3/GR/BEFHEZFQIJ7URBBGXMTDNC
+ |   |- Actor Instance Guid: 4AD3DE41454588179F2939AE985ACF5D
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_3_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/4/CX/VMI4WWZSYZ9BWG6XHJPN26
+ |   |- Actor Instance Guid: 5D77D7DE426DDBBE7234D3A8DF246383
+ |- [+] Content of Cell MainLevel_MainGrid_L0_X-1_Y-1 (2APFCLGXOFKQJV59XWBQT4J0K)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_0_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/8/V2/YLFM0S01TZ8JL2FNHZZT85
+ |   |- Actor Instance Guid: 032960D64B586547CADE6A94EB80E554
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_1_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/E/UN/7VMC8B316YYYSPN1PGXAL1
+ |   |- Actor Instance Guid: 54E7A4264DCFB00ED2F7AD8C974E9F49
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_0_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/9/ZG/YXWEBLJCL9GIXHFK66Z3RW
+ |   |- Actor Instance Guid: 6A144B4445180BE6FEADBC979875E2E0
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_1_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/1/8J/POI1A4X92EN81LWW9H27E4
+ |   |- Actor Instance Guid: 79E9E106454051721FBA0F80B9D18877
+ |- [+] Content of Cell MainLevel_MainGrid_L0_X1_Y0 (3PWPW3SNSDM1OORSFIYUD165X)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_2_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/9/MJ/ZC214SV07LFONI8T0RORMW
+ |   |- Actor Instance Guid: 88B30F9245BB6097882B6BAF60D71251
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_3_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/A/23/H6Q5EAXTXNSP4U22WI8DCK
+ |   |- Actor Instance Guid: D45B84D5497D3D6C8512BBA358777BAF
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_3_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/E/GR/CXXB21RUMP3HM3A0ZZSX7K
+ |   |- Actor Instance Guid: E61C38284EE71477DED36081241529BB
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_2_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/C/SP/DXYWONWO9FIYQJBFX74DO3
+ |   |- Actor Instance Guid: F2458E5C4D07C2E80D6136940A732EDB
+ |- [+] Content of Cell MainLevel_MainGrid_L0_X1_Y1 (5S7MUOFCARIWRB5VLP2ODOPY6)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_4_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/5/3U/HDY9CIED4B1XHSVRXZ4QPR
+ |   |- Actor Instance Guid: 14B75202404A8C3361DD398A5666FC2E
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_5_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/8/LA/NXI4I5KUNNTBEK2N5XEFOH
+ |   |- Actor Instance Guid: 7427DBC846CE45BE536A009FFB7D4546
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_5_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/8/W4/PO0NJFTNAYPGV810Q8711E
+ |   |- Actor Instance Guid: 859E7F3944A1D8A934E8CBA327918895
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_4_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/A/KE/MJGLXDW5B6WUJH09DZCLD8
+ |   |- Actor Instance Guid: A17CFFCE4252699684C08C8887636560
+ |- [+] Content of Cell MainLevel_MainGrid_L0_X1_Y-1 (6C97GOVPVESWFF1FILG353CZK)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_0_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/1/12/NYIIDNEDF812QJY07K7HKK
+ |   |- Actor Instance Guid: 382ACC1245D343833A9C62BEC4E57895
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_0_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/2/ZL/IDCFWTS9TB3DEOCD572P0I
+ |   |- Actor Instance Guid: 39A31EFB4950D1D4942908B541DFEC1B
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_5_1_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/8/3Y/S8RZUCFM7F7RRYO3GUL6FK
+ |   |- Actor Instance Guid: A65710974296399C502BF28825FA2C97
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_4_1_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/2/TQ/JAED33FHMBEE59KZ76LFJE
+ |   |- Actor Instance Guid: B5A5AB5E4FF998021BBAA8B40B9A3720
+ |- [+] Content of Cell MainLevel_MainGrid_L0_X0_Y-1 (7D0CVYTBYGQ8M8S8QKPW35OBX)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_1_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/D/9I/6LUDUJEC3T4MDKWLU81WJY
+ |   |- Actor Instance Guid: 007F368747BDEBD7D8405192CF93C991
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_0_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/1/IV/231E2J9ZDN5VBMEBOTNB6T
+ |   |- Actor Instance Guid: 92CAD4CC47AEA1F1AD94B69D0B0CF558
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_0_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/9/PT/J5DREU72ADL6PN762HJ1ZB
+ |   |- Actor Instance Guid: C40830A44C05FE64698ED98978793D17
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_1_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/C/SS/1UM6XRF7G734ATXCF2QR85
+ |   |- Actor Instance Guid: C75B4EA7435786CA07602DB5ADE35A14
+ |- [+] Content of Cell MainLevel_MainGrid_L0_X0_Y1 (AWS4W2Y4SHNTFWW2BLZB4S769)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_5_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/4/87/SKZGYLQ5818P51S8B6DDCO
+ |   |- Actor Instance Guid: 1D760055470FD6E97694E4B368DCDF43
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_5_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/C/L1/X8ZORF3P9HOAOWIEJU0SF6
+ |   |- Actor Instance Guid: 47BFA6C5449F3298CC332FB8FFB8FB65
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_4_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/6/GN/R70XK6XU2CPA74KUPGYDRK
+ |   |- Actor Instance Guid: 4B35645F4F950ACC8EBEC8AB06D6FED3
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_4_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/4/4S/C5OMA754418BFZP0R47FPP
+ |   |- Actor Instance Guid: 7DEC3B73416AED070A33DAAF25CDA78C
+ |- [+] Content of Cell MainLevel_MainGrid_L0_X-1_Y1 (DFGH8PHQ1ICVD1FO7NNS0X0L9)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_4_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/9/O4/78XRZNHMFYYBKCQCEZ3YFL
+ |   |- Actor Instance Guid: 0E10BFB34DCB1C2685FD9F83461A7D23
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_4_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/0/WP/WOSRTGM4XU7AKUE96CFPYV
+ |   |- Actor Instance Guid: 1CEA5BED470382084EA1BF860B7C583C
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_0_5_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/0/0B/G8HML7MSNGX8CN0SUTMFMU
+ |   |- Actor Instance Guid: A06F7425424FE67109FCBB88C742F0C9
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_1_5_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/3/CD/OV0FSTME6PLTV75ZJ68L2Z
+ |   |- Actor Instance Guid: F67511404934DC2253BEFDAD8820B596
+ |- [+] Content of Cell MainLevel_MainGrid_L0_X0_Y0 (EPTH6CBSGZ5OAGJUE6D3Z4ABP)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_3_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/A/CG/IQHZT6XQV0PXV1XDSYYFPE
+ |   |- Actor Instance Guid: 21B09FF74CF29B039CEC9CAE1E4211E8
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_2_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/7/FZ/CZEF3RL8Z1X43NTR06N824
+ |   |- Actor Instance Guid: 30FA0E5043AACF4F582BACACAE0777C7
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_2_3_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/4/GN/KCKZ0HJFH0FWBCLLV4FG6K
+ |   |- Actor Instance Guid: D97338174C8D101A237EEC96A02AA7BE
+ |   |-          Actor Path: /Game/LevelMap/MainLevel.MainLevel:PersistentLevel.LandscapeStreamingProxy_DN4G2LIOI2DJCSPIFFZ686N0D_62_3_2_0
+ |   |-       Actor Package: /Game/__ExternalActors__/LevelMap/MainLevel/0/5C/CV88AQGMH5MIUC6NM8UH7G
+ |   |- Actor Instance Guid: E3A1D8A948BC5E86EC75C9AF4A073C32
+[+] Content of Grid Level 1
+[+] Content of Grid Level 2
+
